@@ -28,5 +28,6 @@ the folder called textures
 so you can install the cursor to your game
 
 # if it asks you to replace then OVERWRITE/REPLACE
+so it replaces the cursor
 
-# if it doesn't ask you to overwrite then you did something wrong
+# and finally, restart roblox and enjoy its glory.
